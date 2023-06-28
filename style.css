@@ -39,6 +39,8 @@ body {
 .section-title-name{
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 .section-title-name h1{
     font-size: 40pt;
@@ -73,7 +75,7 @@ footer .div-aviso h2{
 .nav-footer ul li img{
     display: block;
     background-color: rgb(253, 255, 129);
-    border-radius: 5px;
+    border-radius: 6px;
 }
 @keyframes colors{
     0%{
