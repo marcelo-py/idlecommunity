@@ -70,14 +70,12 @@ footer .div-aviso h2{
     padding: 4px;
 }
 .nav-footer ul li:hover{
-    background-color: rgb(253, 255, 129);
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.322);
     background-color: rgb(129, 255, 135);
+    outline: 1px solid rgb(255, 255, 255);
 }
 .nav-footer ul li img{
     display: block;
-    background-color: rgb(129, 255, 135);
-    border-radius: 7px;
 }
 @keyframes colors{
     0%{
